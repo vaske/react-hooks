@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Based on very nice article [Build a React To-Do App with React Hooks (No Class Components)](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components)
+
 
 ## Available Scripts
 
