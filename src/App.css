@@ -1,0 +1,22 @@
+.app {
+  padding: 30px;
+  height: 100vh;
+}
+
+.todo {
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  margin-right: 2px;
+}
+
+.small-text {
+  font-size: 10px;
+}
